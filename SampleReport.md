@@ -29,13 +29,13 @@ Add any required images.
 
 ![GitHub Logo](/Images/python.png)
 
-Add relevant code snippent. Keep this short, and only include if it supports an argument or point.
+Add relevant code snippents. Keep this short, and only include if it supports an argument or point.
 
     def foo():
         if not bar:
             return True
 
-Explore formating. Use **bolds** and *italics*, and many other functionalities available in MarkDown.
+Explore formating. Use **bolds** and *italics*, and many other tags available in MarkDown.
 
 ## Objective 2
 *Same as Objective 1*
