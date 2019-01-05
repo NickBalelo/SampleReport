@@ -32,6 +32,13 @@ Add any required images.
 
 Add relevant code snippent. Keep this short, and only include if it supports an argument or point.
 
+def foo():
+    if not bar:
+        return True
+
+    def foo():
+        if not bar:
+            return True
 
 ## Objective 2
 *Same as Objective 1*
@@ -52,5 +59,5 @@ Add relevant code snippent. Keep this short, and only include if it supports an 
 
 *italic*
 
-[Tutorial Link](https://guides.github.com/features/mastering-markdown/)
+
 
