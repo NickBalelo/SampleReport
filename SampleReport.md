@@ -4,7 +4,6 @@ A12345678
 
 # Lab 1
 
-
 ## Introduction
 *At a high level, describe the objective of the lab.*
 
@@ -32,13 +31,11 @@ Add any required images.
 
 Add relevant code snippent. Keep this short, and only include if it supports an argument or point.
 
-def foo():
-    if not bar:
-        return True
-
     def foo():
         if not bar:
             return True
+
+Explore formating. Use **bolds** and *italics*, and many other functionalities available in MarkDown.
 
 ## Objective 2
 *Same as Objective 1*
@@ -51,13 +48,4 @@ def foo():
 
 ## Conclusion
 *At a high level, describe the outcome of the lab, and any issues you incountered and how you resolved them*
-
-
-
-
-**bold**
-
-*italic*
-
-
 
