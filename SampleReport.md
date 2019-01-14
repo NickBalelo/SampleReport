@@ -27,7 +27,7 @@ Add relevant [links](https://guides.github.com/features/mastering-markdown/)
 
 Add any required images.
 
-![GitHub Logo](/Images/python.png)
+![GitHub Logo] (/Images/python.png)
 
 Add relevant code snippents. Keep this short, and only include if it supports an argument or point.
 
